@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+body {background-color: yellow;}
+h1   {color: blue;font-size:45pt}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>Hello World</h1>
+<p>here it come CSS</p>
+
+</body>
+</html>
+
