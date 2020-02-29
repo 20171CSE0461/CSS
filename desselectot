@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+div p{
+ background-color: yellow;
+}
+</style>
+</head>
+<body>
+<div>
+<p>Para 1 in div</p>
+<p>Para 2 in div</p>
+<h1><p>Para 3 in div</p></h1>
+</div>
+<p>para 4</p>
+<p>Para 5</p>
+</body>

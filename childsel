@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+div p{
+ background-color: cyan;
+ color:white;
+ padding:2px;
+}
+</style>
+</head>
+<body style="text-align:center;">
+<div>
+<h2 style="color:green;"> CSS Child Selector</h2>
+<p> A computer Science portal</p>
+</div>
+<p>Welcome to presidency university.</p>
+<p>this is not styled</p>
+</body>
+</html>
