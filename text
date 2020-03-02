@@ -46,6 +46,11 @@ p.ex1 {
   direction: rtl;
   unicode-bidi: bidi-override;
 }
+
+p.shadow {
+  text-shadow: 50px 30px red;
+}
+<style>
 </style>
 </head>
 <body>
@@ -57,14 +62,13 @@ p.ex1 {
 <h5>This is heading 2</h5>
 <h6>This is heading 3</h6>
 <h7>This is heading 2</h7>
-<h8>This is heading 3</h8>
-
+<h8>This is letter sapcing</h8>
+<p class="shadow">Text Shadow afect</p>
 <p class="ex1">This is right-to-left text direction.</p>
 
 <p class="uppercase">This is some text.</p>
 <p class="lowercase">This is some text.</p>
 <p class="capitalize">This is some text.</p>
-<p>The three headings above are aligned center, left and right.</p>
 
 </body>
 </html>
