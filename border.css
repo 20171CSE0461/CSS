@@ -1,0 +1,25 @@
+<style>
+p.dotted {border-style: dotted;
+border-width: 5px;
+border-color:green;}
+p.dashed {border-style: dashed;
+border-width: 5px;
+border-color:green;}
+p.solid {border-style: solid;
+border-width: 5px}
+p.double {border-style: double;
+border-width: 5px}
+p.groove {border-style: groove;border-width: 5px}
+p.ridge {border-style: ridge;border-width: 5px}
+p.inset {border-style: inset;border-width: 5px}
+p.outset {border-style: outset;border-width: 5px}
+p.none {border-style: none;border-width: 5px}
+p.hidden {border-style: hidden;border-width: 5px}
+p.mix {border-style: dotted dashed solid double;border-width: 5px}
+#borderim{ 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(/home/Sem6B7/Desktop/index1.jpeg) 30 stretch;
+  opacity:0.3;
+}
+</style>
