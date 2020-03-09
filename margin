@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+div {
+  border: 3px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 300px;
+  background-color: lightgreen;
+  padding:20px 20px 20px 20px ;
+
+}
+</style>
+</head>
+<body>
+
+<h2>Using individual margin</h2>
+
+<div>T a bottom margin of 100px, and.</div>
+
+</body>
+</html>
+
