@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+p {
+  display: none;
+  background-color: yellow;
+  padding: 20px;
+}
+
+div:hover p {
+  display: block;
+}
+</style>
+</head>
+<body bgcolor=powderblue>
+
+<div>Hover over me to show m
+  <p>Surprise MF!!</p>
+</div>
+
+</body>
+</html>
+
