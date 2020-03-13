@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+a:link,a:visited{
+background-color:#9999e6;
+color:white;
+padding:14px 25px;
+text-align:center;
+text-decoartion:none;
+display:inline-block;
+}
+a:hover,a:active{
+background-color: #00b3b3;
+}
+</style>
+</head>
+<body bgcolor=#ff99ff>
+<a href="pseudo.html">HOME</a>
+<a href="border_style.html">Contact</a>
+<a href="height_width.html">About Us</a>
+</body>
+</html>
